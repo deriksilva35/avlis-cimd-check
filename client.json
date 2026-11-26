@@ -1,0 +1,1 @@
+{"client_id":"https://deriksilva35.github.io/avlis-cimd-check/client.json","client_name":"AVLIS CIMD live check","redirect_uris":["https://crewos-dashboard.vercel.app/favicon.svg"],"token_endpoint_auth_method":"none","grant_types":["authorization_code","refresh_token"],"response_types":["code"]}
